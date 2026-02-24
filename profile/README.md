@@ -18,5 +18,7 @@ Nós focamos no desenvolvimento de ferramentas de navegação de alta performanc
 O site oficial está em desenvolvimento e será o ponto central para downloads e documentação técnica:
 > **https://shiro.sh** (Em breve)
 
+[![Discord Shield](https://discord.com/api/guilds/1476000088940609739/widget.png?style=banner2)](https://discord.gg/v6CmMF3zWr)
+
 ---
 *Focados no código. Focados na sua privacidade.*
